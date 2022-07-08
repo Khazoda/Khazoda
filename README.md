@@ -3,7 +3,7 @@
 
 ```js
  ⌈‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾⌉                      ⌈‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾⌉                      ⌈‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾⌉ 
-🪵 FULL STACK WEB DEV 🪵                     🌵  JUNE (she/they)  🌵                     🪵 JAVA & KOTLIN DEV  🪵
+🪵 FULL STACK WEB DEV 🪵                    🌵    JUNE FALEIRO    🌵                     🪵 JAVA & KOTLIN DEV  🪵
  ⌊______________________⌋                      ⌊______________________⌋                      ⌊______________________⌋
 ```
 ### <p align="center">I'm a frontend web developer with backend experience. To view my resume, please visit [my personal site.](https://www.junefaleiro.com/resume/resume)</p>
