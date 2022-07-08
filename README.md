@@ -1,12 +1,17 @@
-### Hi there 👋
+<p style='color:white; background:#E42659;text-align:center;padding-top:20px;padding-bottom:20px; border-radius:10px'>HI THERE 👋</p>
+
+```js
+ ⌈‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾⌉               ⌈‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾⌉               ⌈‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾⌉ 
+🪵 FULL STACK WEB DEV 🪵              🌵   JUNE FALEIRO    🌵              🪵 JAVA & KOTLIN DEV  🪵
+ ⌊______________________⌋               ⌊______________________⌋               ⌊______________________⌋
+```
+> UI | UX Frontend Web developer with backend experience
+🌙
+☀️
 
 
-**Khazoda/Khazoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- `🔭 I’m currently working on     completing my bachelors in Computer Science`
+- `🌱 I’m currently learning   a whole host of new css frameworks and libraries`
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
