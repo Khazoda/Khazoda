@@ -6,7 +6,7 @@
 🪵 FULL STACK WEB DEV 🪵                     🌵  JUNE (she/they)  🌵                     🪵 JAVA & KOTLIN DEV  🪵
  ⌊______________________⌋                      ⌊______________________⌋                      ⌊______________________⌋
 ```
-> I'm a frontend web developer with backend experience. To view my resume, please visit [my personal site.](https://www.junefaleiro.com/resume/resume)
+### <p align="center">I'm a frontend web developer with backend experience. To view my resume, please visit [my personal site.](https://www.junefaleiro.com/resume/resume)</p>
 
 
 <!-- - `🔭 I’m currently working on     completing my bachelors in Computer Science`
