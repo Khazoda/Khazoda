@@ -9,7 +9,10 @@
  ```
 </div>
 
-### <p align="center">I'm a frontend web developer with backend experience. To view my resume, please visit <a href='https://www.junefaleiro.com/resume/resume' target='_blank'>my personal site.</a></p>
+<p align="center">
+
+### I'm a frontend web developer with backend experience. To view my resume, please visit <a href='https://www.junefaleiro.com/resume/resume' target='_blank'>my personal site.</a>
+</p>
 
 
 
