@@ -9,7 +9,8 @@
  ```
 </div>
 
-### <p align="center">I'm a frontend web developer with backend experience. To view my resume, please visit [my personal site.](https://www.junefaleiro.com/resume/resume)</p>
+### <p align="center">I'm a frontend web developer with backend experience. To view my resume, please visit <a href='https://www.junefaleiro.com/resume/resume' target='_blank'>my personal site.</a></p>
+
 
 
 <!-- - `🔭 I’m currently working on     completing my bachelors in Computer Science`
