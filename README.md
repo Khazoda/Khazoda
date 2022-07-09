@@ -1,10 +1,13 @@
 ## <p align="center">Welcome to my GitHub profile. I hope you find what you're looking for. 😊</p>
 
-```js
+<div align="center">
+
+```
  ⌈‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾⌉                      ⌈‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾⌉                      ⌈‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾⌉ 
 🪵 FULL STACK WEB DEV 🪵                    🌵    JUNE FALEIRO    🌵                     🪵 JAVA & KOTLIN DEV  🪵
- ⌊______________________⌋                      ⌊______________________⌋                      ⌊______________________⌋
-```
+⌊______________________⌋                      ⌊______________________⌋                      ⌊______________________⌋
+ ```
+</div>
 
 ### <p align="center">I'm a frontend web developer with backend experience. To view my resume, please visit [my personal site.](https://www.junefaleiro.com/resume/resume)</p>
 
