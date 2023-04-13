@@ -2,7 +2,9 @@
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khazoda&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khazoda&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,next,react,svelte,angular&perline=4)](https://skillicons.dev)
 
 </div>
 
