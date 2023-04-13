@@ -2,14 +2,11 @@
 
 <div align="center">
 
-```
- ⌈‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾⌉                      ⌈‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾⌉                      ⌈‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾⌉ 
-🪵 FULL STACK WEB DEV 🪵                    🌵    JUNE FALEIRO    🌵                     🪵 JAVA & KOTLIN DEV  🪵
-⌊______________________⌋                      ⌊______________________⌋                      ⌊______________________⌋
- ```
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khazoda&show_icons=true&theme=synthwave)
+
 </div>
 
-### <p align="center">I'm a frontend web developer with backend experience. To view my resume, please visit [my personal site.](https://www.junefaleiro.com/resume/resume)</p>
+### <p align="center">I'm a frontend web developer with backend experience. To view my skills, please visit [my personal site.](https://www.junefaleiro.com/resume/resume) or get in touch at contact@junefaleiro.com</p>
 
 
 
