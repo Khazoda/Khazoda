@@ -2,9 +2,9 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khazoda&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khazoda&layout=compact&theme=dark)
   
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,next,react,svelte,angular&perline=4)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,next,react,svelte,angular&perline=4)
 
 </div>
 
