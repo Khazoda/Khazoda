@@ -8,6 +8,6 @@
 
 </div>
 
-### <p align="center">I'm a frontend web developer with backend experience. To view my skills, please visit [my personal site](https://www.junefaleiro.com/resume/resume) or get in touch at contact@junefaleiro.com</p>
+### <p align="center">I'm a frontend web developer with backend experience. You can reach me via e-mail at khazoda@gmail.com</p>
 
 
