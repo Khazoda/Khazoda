@@ -1,13 +1,10 @@
-## <p align="center">Welcome to my GitHub profile. I hope you find what you're looking for. 😊</p>
+## <p align="center">⚡Welcome to my GitHub profile⚡</p>
+#### For business enquiries please contact me at [khazoda@gmail.com](mailto:khazoda@gmail.com)
+#### For mod-related queries send me a message [on Discord](https://discordapp.com/users/242268205333086208)
+##
 
 <div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khazoda&layout=compact&theme=dark)
   
-![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,next,react,svelte,angular&perline=4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khazoda&layout=compact&theme=dark)
 
 </div>
-
-### <p align="center">I'm a frontend web developer with backend experience. You can reach me via e-mail at khazoda@gmail.com</p>
-
-
